@@ -1,0 +1,7 @@
+spring:
+  datasource:
+    name: test
+    username: root
+    password: 1qaz2wsx
+    url: jdbc:mysql//192.168.1.207:3306/ozxtest
+
